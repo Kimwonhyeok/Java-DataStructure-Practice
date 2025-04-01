@@ -6,7 +6,7 @@
   <strong>기능들</strong>
   <li>push()</li>
   <li>pop()</li>
-  <li>peek()></li>
+  <li>peek()</li>
   <li>indexOf()</li>
   <li>clear()</li>
   <li>capacity()</li>
@@ -18,5 +18,5 @@
 
 
 <h2><a href="https://github.com/Kimwonhyeok/Java-DataStruct-Practice/blob/main/stack/StackInterface.java">스택 인터페이스</a></h2>
-<h2>IntStack 클래스</h3>
-<h2>Main 클래스</h2>
+<h2><a href="https://github.com/Kimwonhyeok/Java-DataStruct-Practice/blob/main/stack/IntStack.java">IntStack 클래스</a></h3>
+<h2><a href="https://github.com/Kimwonhyeok/Java-DataStruct-Practice/blob/main/stack/Main.java">Main 클래스</a></h2>
