@@ -16,6 +16,8 @@
   <li>dump()</li>
 </ul>
 
+폴더구조
+![Image](https://github.com/user-attachments/assets/bc02638f-5a1e-4ced-98bf-f7cccea3de24)
 
 <h2><a href="https://github.com/Kimwonhyeok/Java-DataStruct-Practice/blob/main/stack/StackInterface.java">스택 인터페이스</a></h2>
 <h2><a href="https://github.com/Kimwonhyeok/Java-DataStruct-Practice/blob/main/stack/IntStack.java">IntStack 클래스</a></h3>
