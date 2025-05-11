@@ -10,7 +10,6 @@ public class Node {
     Object data;
     Node link;
 
-
     Node(Object data){
         this.data = data;
         this.link = null;
