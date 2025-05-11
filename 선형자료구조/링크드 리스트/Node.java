@@ -6,6 +6,7 @@ package linkedlist;
  * data = 데이터 값 저장 변수
  * link = 다음 노드 참조값 저장 변수
  *
+ *
  */
 public class Node {
     Object data;
