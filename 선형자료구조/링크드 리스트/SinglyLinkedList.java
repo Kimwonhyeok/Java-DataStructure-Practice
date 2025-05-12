@@ -10,6 +10,7 @@ public class SinglyLinkedList {
         this.tail = null;
         this.size = 0;
     }
+    
 
     /**
      * 리스트가 공백상태인지 확인하는 메서드
